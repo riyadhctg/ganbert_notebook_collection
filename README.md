@@ -1,5 +1,5 @@
 # NOTICE
-This repo includes a collection of notebooks that runs slightly modified Gan-Bert. There are some modifications to the code to adapt to notebook style execution and different datasets that were used
+This repo includes a collection of notebooks that runs "Gan-Bert". There are some modifications to the code to adapt to notebook style execution and different datasets that were used
 
 **Original Gan-Bert Code** - https://github.com/crux82/ganbert
 
